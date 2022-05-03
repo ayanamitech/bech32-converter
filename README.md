@@ -100,3 +100,8 @@ console.log(test);
   </body>
 </html>
 ```
+
+### TO-DO
+
+- [] Optimise library, minify the size for browser build
+- [] Support WASM enabled ecpair@^2 version (Check webpack support again)
