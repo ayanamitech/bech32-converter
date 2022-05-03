@@ -13,7 +13,11 @@ Convert Electrum compatible Private key to bitcoin address with prefix
 ## Install
 
 ```bash
+# For CLI
 $ npm i -g bech32-converter
+
+# To import as a commonjs library
+$ npm i --save bech32-converter
 ```
 
 ## Browser
@@ -62,6 +66,10 @@ EXAMPLES
 ```
 
 ### Node.js (As a library)
+
+```bash
+$ npm i --save bech32-converter
+```
 
 ```js
 const bech32Converter = require('bech32-converter');
