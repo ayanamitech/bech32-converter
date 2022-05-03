@@ -1,8 +1,8 @@
 # Bech32 Converter - Bitcoin address converter
 
 [![Build Status](https://github.com/ayanamitech/bech32-converter/actions/workflows/build.yml/badge.svg)](https://github.com/ayanamitech/bech32-converter/actions)
-[![NPM Package Version](https://img.shields.io/npm/v/@ayanamitech/bech32-converter.svg)](https://npmjs.org/package/@ayanamitech/bech32-converter)
-[![NPM Package Downloads](https://img.shields.io/npm/dm/@ayanamitech/bech32-converter.svg)](https://npmjs.org/package/@ayanamitech/bech32-converter)
+[![NPM Package Version](https://img.shields.io/npm/v/bech32-converter.svg)](https://npmjs.org/package/bech32-converter)
+[![NPM Package Downloads](https://img.shields.io/npm/dm/bech32-converter.svg)](https://npmjs.org/package/bech32-converter)
 [![Known Vulnerabilities](https://snyk.io/test/github/ayanamitech/bech32-converter/badge.svg?style=flat-square)](https://snyk.io/test/github/ayanamitech/bech32-converter)
 [![GitHub Views](https://img.shields.io/badge/dynamic/json?color=green&label=Views&query=uniques&url=https://github.com/ayanamitech/node-github-repo-stats/blob/main/data/ayanamitech/bech32-converter/views.json?raw=True&logo=github)](https://github.com/ayanamitech/bech32-converter)
 [![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=uniques&url=https://github.com/ayanamitech/node-github-repo-stats/blob/main/data/ayanamitech/bech32-converter/clone.json?raw=True&logo=github)](https://github.com/ayanamitech/bech32-converter)
