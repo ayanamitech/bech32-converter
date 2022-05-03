@@ -31,6 +31,7 @@ module.exports = function(config) {
       ],
       resolve: {
         fallback: {
+          assert: require.resolve('assert/'),
           stream: require.resolve('stream-browserify'),
           buffer: require.resolve('buffer'),
         },
