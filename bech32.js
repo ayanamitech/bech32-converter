@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const bech32Converter = require('./src');
 const process = require('process');
 
