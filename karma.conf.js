@@ -1,6 +1,6 @@
-const path = require('path');
 const webpack = require('webpack');
-const os = require('node:os');
+const path = require('path');
+const os = require('os');
 
 // https://github.com/ryanclark/karma-webpack/issues/498
 const output = {
